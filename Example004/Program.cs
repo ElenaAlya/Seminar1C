@@ -10,7 +10,3 @@ int max = input1;
 
        Console.WriteLine("максимальное число-" + max); 
  
-
-    
-  
-    
