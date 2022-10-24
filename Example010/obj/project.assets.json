@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aksen\\OneDrive\\Desktop\\GeekBrains\\Examples\\vhbjn\\vhbjn.csproj",
-      "projectName": "vhbjn",
-      "projectPath": "C:\\Users\\aksen\\OneDrive\\Desktop\\GeekBrains\\Examples\\vhbjn\\vhbjn.csproj",
+      "projectUniqueName": "C:\\Users\\aksen\\OneDrive\\Desktop\\GeekBrains\\Examples\\Example010\\Example010.csproj",
+      "projectName": "Example010",
+      "projectPath": "C:\\Users\\aksen\\OneDrive\\Desktop\\GeekBrains\\Examples\\Example010\\Example010.csproj",
       "packagesPath": "C:\\Users\\aksen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aksen\\OneDrive\\Desktop\\GeekBrains\\Examples\\vhbjn\\obj\\",
+      "outputPath": "C:\\Users\\aksen\\OneDrive\\Desktop\\GeekBrains\\Examples\\Example010\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aksen\\AppData\\Roaming\\NuGet\\NuGet.Config"
