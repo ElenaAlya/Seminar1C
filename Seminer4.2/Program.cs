@@ -7,7 +7,7 @@ void FillArray(int[] collection)
   Random random = new Random();
   while (index<length)
   {
-    collection[index] = new Random().Next(0, 2);
+    collection[index] = new Random().Next(0, 2); //метод Next выводит число >=мин и строго на единицу меньше макс , те берет значения (0, 1)
     index ++;
   }
 }

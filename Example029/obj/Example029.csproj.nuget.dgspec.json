@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aksen\\OneDrive\\Desktop\\GeekBrains\\Examples\\Example_29\\Example_29.csproj": {}
+    "C:\\Users\\aksen\\OneDrive\\Desktop\\GeekBrains\\Examples\\Example029\\Example029.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aksen\\OneDrive\\Desktop\\GeekBrains\\Examples\\Example_29\\Example_29.csproj": {
+    "C:\\Users\\aksen\\OneDrive\\Desktop\\GeekBrains\\Examples\\Example029\\Example029.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aksen\\OneDrive\\Desktop\\GeekBrains\\Examples\\Example_29\\Example_29.csproj",
-        "projectName": "Example_29",
-        "projectPath": "C:\\Users\\aksen\\OneDrive\\Desktop\\GeekBrains\\Examples\\Example_29\\Example_29.csproj",
+        "projectUniqueName": "C:\\Users\\aksen\\OneDrive\\Desktop\\GeekBrains\\Examples\\Example029\\Example029.csproj",
+        "projectName": "Example029",
+        "projectPath": "C:\\Users\\aksen\\OneDrive\\Desktop\\GeekBrains\\Examples\\Example029\\Example029.csproj",
         "packagesPath": "C:\\Users\\aksen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aksen\\OneDrive\\Desktop\\GeekBrains\\Examples\\Example_29\\obj\\",
+        "outputPath": "C:\\Users\\aksen\\OneDrive\\Desktop\\GeekBrains\\Examples\\Example029\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aksen\\AppData\\Roaming\\NuGet\\NuGet.Config"
