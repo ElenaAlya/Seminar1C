@@ -1,0 +1,15 @@
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Example041\bin\Debug\net6.0\Example041.exe
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Example041\bin\Debug\net6.0\Example041.deps.json
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Example041\bin\Debug\net6.0\Example041.runtimeconfig.json
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Example041\bin\Debug\net6.0\Example041.dll
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Example041\bin\Debug\net6.0\Example041.pdb
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Example041\obj\Debug\net6.0\Example041.csproj.AssemblyReference.cache
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Example041\obj\Debug\net6.0\Example041.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Example041\obj\Debug\net6.0\Example041.AssemblyInfoInputs.cache
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Example041\obj\Debug\net6.0\Example041.AssemblyInfo.cs
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Example041\obj\Debug\net6.0\Example041.csproj.CoreCompileInputs.cache
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Example041\obj\Debug\net6.0\Example041.dll
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Example041\obj\Debug\net6.0\refint\Example041.dll
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Example041\obj\Debug\net6.0\Example041.pdb
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Example041\obj\Debug\net6.0\Example041.genruntimeconfig.cache
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Example041\obj\Debug\net6.0\ref\Example041.dll

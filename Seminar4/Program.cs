@@ -19,18 +19,18 @@
 
 // Console.WriteLine ("Результат" + result);
 
-Console.WriteLine ("Введите число"); 
-  
-int NumberOfDigits (int n)
+Console.WriteLine("Введите число");
+
+int NumberOfDigits(int n)
 {
     n = Math.Abs(n);  // берет число по модулю
     int result = 0;
     do
     {
-        n /=10;
-        result ++;
+        n /= 10;
+        result++; C                                                
     }
-    while (n>0);
+    while (n > 0);
     return result;
 
 }

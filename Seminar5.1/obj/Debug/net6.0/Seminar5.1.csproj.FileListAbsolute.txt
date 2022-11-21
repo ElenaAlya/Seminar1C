@@ -1,0 +1,15 @@
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Seminar5.1\bin\Debug\net6.0\Seminar5.1.exe
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Seminar5.1\bin\Debug\net6.0\Seminar5.1.deps.json
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Seminar5.1\bin\Debug\net6.0\Seminar5.1.runtimeconfig.json
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Seminar5.1\bin\Debug\net6.0\Seminar5.1.dll
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Seminar5.1\bin\Debug\net6.0\Seminar5.1.pdb
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Seminar5.1\obj\Debug\net6.0\Seminar5.1.csproj.AssemblyReference.cache
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Seminar5.1\obj\Debug\net6.0\Seminar5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Seminar5.1\obj\Debug\net6.0\Seminar5.1.AssemblyInfoInputs.cache
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Seminar5.1\obj\Debug\net6.0\Seminar5.1.AssemblyInfo.cs
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Seminar5.1\obj\Debug\net6.0\Seminar5.1.csproj.CoreCompileInputs.cache
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Seminar5.1\obj\Debug\net6.0\Seminar5.1.dll
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Seminar5.1\obj\Debug\net6.0\refint\Seminar5.1.dll
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Seminar5.1\obj\Debug\net6.0\Seminar5.1.pdb
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Seminar5.1\obj\Debug\net6.0\Seminar5.1.genruntimeconfig.cache
+C:\Users\aksen\OneDrive\Desktop\GeekBrains\Examples\Seminar5.1\obj\Debug\net6.0\ref\Seminar5.1.dll
